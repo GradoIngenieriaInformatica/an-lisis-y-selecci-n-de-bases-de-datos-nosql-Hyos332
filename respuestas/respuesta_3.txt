@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+COLUMNAS | Facilita consultas cronológicas y agregaciones eficientes sobre grandes volúmenes de logs.
